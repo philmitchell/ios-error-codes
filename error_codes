@@ -1,5 +1,13 @@
 -*-Outline-*-
 
+NOTE: NSHipster has a big list of error codes: http://nshipster.com/nserror/
+
+There's also some documentation of errors at:
+        FoundationErrors.h
+        CoreDataErrors.h
+        CFNetworkErrors.h
+        CTFontManagerErrors.h
+
 * NSOSStatusErrorDomain
 ** Code: -54
 Permissions error related to NSFileProtectionKey
