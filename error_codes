@@ -1,0 +1,7 @@
+-*-Outline-*-
+
+* NSOSStatusErrorDomain
+** Code: -54
+Permissions error related to NSFileProtectionKey
+
+AVAudioPlayer throws this when screen locks (with passcode) unless files have NSFileProtectionNone set.
